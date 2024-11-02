@@ -1,0 +1,9 @@
+.head{
+    height: 100px;
+    width: 100px;
+    background-color: yellowgreen;
+    border:solid 2px green;
+}
+.head h1{
+    color: white;
+}
